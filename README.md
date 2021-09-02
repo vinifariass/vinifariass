@@ -18,7 +18,7 @@
   <img align="center" alt="Vinicius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vinicius-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="right" alt="Vinicius-yoda" height="240" width="240" src="https://cdn.discordapp.com/attachments/547592506486030337/870078844676235304/download20210703200231.png">
+  <img align="right" alt="Vinicius-yoda" height="240" width="240" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fonepiece-gif-18892769&psig=AOvVaw3TvzH9vOUpsXpp0Xt3UoOR&ust=1630685685099000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKCNkNrX4PICFQAAAAAdAAAAABAD">
 </div>
   
 ##
