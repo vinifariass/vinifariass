@@ -2,8 +2,6 @@
 
 - 🔭 Estou trabalhando com Front-End
 - 🌱 Estou aprendendo PHP e SQL
-- 📫 Contate-me: fsvinicius9@gmail.com
-
  <div>
   <a href="https://github.com/vinicius8706">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius8706&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
