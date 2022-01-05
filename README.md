@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vinicius Farias
 
-- 🔭 Estou trabalhando com Front-End
+- 🔭 Estou trabalhando com Front-End e Back-end
 - 🌱 Estou aprendendo PHP e SQL
  <div>
   <a href="https://github.com/vinicius8706">
