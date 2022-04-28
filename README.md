@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vinicius Farias
 
 - 🔭 Estou trabalhando com Front-End e Back-end
-- 🌱 Estou aprendendo PHP e SQL
+- 🌱 Estou aprendendo PHP, SQL, Laravel e VueJs
  <div>
   <a href="https://github.com/vinicius8706">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius8706&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
