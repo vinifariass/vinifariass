@@ -31,3 +31,9 @@
  ![Snake animation](https://github.com/vinicius8706/vinicius8706/blob/output/github-contribution-grid-snake.svg)
  
  </div>
+ 
+ <br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
