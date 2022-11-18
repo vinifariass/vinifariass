@@ -3,9 +3,9 @@
 - 🔭 Estou trabalhando com Front-End e Back-end
 - 🌱 Estou aprendendo PHP, SQL, Laravel e VueJs
  <div>
-  <a href="https://github.com/vinicius8706">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius8706&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius8706&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/vinifariass">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinifariass&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinifariass&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +28,7 @@
   <a href = "mailto:fsvinicius9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusfs32/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/vinicius8706/vinicius8706/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/vinifariass/vinifariass/blob/output/github-contribution-grid-snake.svg)
  
  </div>
  
