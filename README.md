@@ -31,4 +31,19 @@
  ![Snake animation](https://github.com/vinifariass/vinifariass/blob/output/github-contribution-grid-snake.svg)
  
  </div>
+
+ <div>
+  ### 🤝🏻 &nbsp;Entre em contato
+
+  <p align="center">
+  <a href="https://www.linkedin.com/in/ramonvasconcelos4285/"><img src="https://img.shields.io/badge/-Ramon%20Vasconcelos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
+
+
+####
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Pbluer/count.svg" alt="Contador" />
+</p>
+ </div>
  
